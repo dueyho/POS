@@ -3,7 +3,7 @@ require 'rspec'
 require 'cashier'
 require 'product'
 require 'purchase'
-require 'products_purchases'
+require 'customer'
 require 'shoulda-matchers'
 
 
